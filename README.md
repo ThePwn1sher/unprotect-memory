@@ -16,7 +16,7 @@ Usage: .\unprotect.exe PROCESS_PID PASSWORD_HEX
 Example: .\unprotect.exe 5820 eece029075166d89496439c46c125b14bcc571884a1370c834d742c79fac2c4f
 ```
 
-* `PROCESS_PID`: PID of the process that encrypted the password.
+* `PROCESS_PID`: PID of the process (x64) that encrypted the password.
 * `PASSWORD_HEX`: Encrypted blob in hexadecimal format.
 
 ## Acknowledgments
