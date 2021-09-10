@@ -4,13 +4,6 @@
 
 //#define DEBUG
 
-/*
-#include <stdio.h>
-#include <Wincrypt.h>
-#include <strsafe.h>
-#pragma comment(lib, "crypt32.lib")
-*/
-
 #define UNPROTECTMEMORY_ADDR 0xee
 #define PROTECTMEMORY_ADDR 0xdd
 #define COPYMEMORY_ADDR 0xcc
