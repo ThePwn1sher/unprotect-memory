@@ -1,6 +1,6 @@
 # UnprotectMemory
 
-Tool which decrypt a password encrypted with `CryptProtectMemory` using `CRYPTPROTECTMEMORY_SAME_PROCESS`.
+Decrypts a blob encrypted with `CryptProtectMemory` using `CRYPTPROTECTMEMORY_SAME_PROCESS`.
 
 ## Compilation
 
